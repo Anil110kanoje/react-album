@@ -1,0 +1,27 @@
+body{
+  background-color: rgb(195, 238, 223);
+}
+
+form {
+    padding: 30px;
+    background-color:  rgb(62, 193, 193);
+    position: absolute;
+    left: 38%;
+    color: black;
+    top: 33%;
+    font-size: 2rem;
+  }
+
+ 
+  
+  #albumHeading {
+    padding: 20px;
+    position: absolute;
+    left: 25%;
+    color: gold;
+    text-align: center;
+    background-color: rgb(17, 154, 108);
+    font-size: 4rem;
+    font-weight: bold;
+  }
+  
